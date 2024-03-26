@@ -7,3 +7,5 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 Added changelog.md
+
+Removed arquivo01.txt and arquivo02.txt
